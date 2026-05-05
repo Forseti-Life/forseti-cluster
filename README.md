@@ -1,4 +1,12 @@
-<!-- AUTOMATION VALIDATION: 2026-04-23 - automation of development confirmed for this repo -->
-# Forseti Cluster
+# forseti-cluster
 
-Standalone source root for the `forseti_cluster` Drupal module.
+This repository is currently a lightweight scaffold for cluster- or infrastructure-oriented Forseti work.
+
+## Current state
+
+- minimal repository structure
+- no substantial implementation checked in yet beyond template material
+
+## Intended role
+
+Use this repository for standalone cluster orchestration or infrastructure assets when that work needs to live outside the HQ repo and outside individual product repos.
